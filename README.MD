@@ -30,3 +30,6 @@ aqui podemos usar *formato italico*, pero tambien podemos usar ~~tachado~~, y fo
 # Links
 
 - [esto es un link en markdown](http://www.google.com)
+
+# imagenes
+![Logo de Git](https://www.aprendexojo.com/wp-content/uploads/2017/09/Git-Logo.png)
