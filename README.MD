@@ -3,7 +3,7 @@
 ### cabrecera H3
 ##### cabrecera H4
 ###### cabrecera H5
-
+# Underline
 Underline 1
 ------------
 
@@ -11,9 +11,18 @@ Underline 2
 ============
 
 
+# formato de enfasis 
 letra *italica* de la primera forma.
 letra _italica_ de la segunda forma.
 formato **bold o strong** de la primera forma.
 formato __bold o strong__ de la segunda forma.
 formato ~~tachado~~, formato normal.
 aqui podemos usar *formato italico*, pero tambien podemos usar ~~tachado~~, y formato __bold__
+
+# listas
+1. Esto es un item.
+2. Esto es un item de lista ordenada
+3. Esto es un item de lista ordebada
+- esto es ununa lista desordenada
+- esto es ununa lista desordenada
+- esto es ununa lista desordenada
