@@ -1,3 +1,5 @@
+Version Actual: 1.2.2
+
 # cabecera H1
 ## cabrecera H2
 ### cabrecera H3
@@ -35,3 +37,9 @@ aqui podemos usar *formato italico*, pero tambien podemos usar ~~tachado~~, y fo
 ![Logo de Git](https://www.aprendexojo.com/wp-content/uploads/2017/09/Git-Logo.png)
 
 #
+esta es una linea
+***
+# saltos de lieas
+este es un salto de linea
+
+este es otro salto de linea
